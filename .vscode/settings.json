@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.hcl": "hcl"
+  },
+  "[hcl]": {
+    "editor.quickSuggestions": {
+      "comments": false,
+      "other": true,
+      "strings": true
+    }
+  }
+}

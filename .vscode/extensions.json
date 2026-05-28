@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "HashiCorp.HCL",
+    "HashiCorp.terraform",
+    "BahramJoharshamshiri.hcl-lsp"
+  ]
+}
